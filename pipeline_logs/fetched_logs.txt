@@ -1,0 +1,6 @@
+
+[INFO] App started
+[WARNING] Disk usage high
+[ERROR] Connection to DB failed
+[INFO] Retrying connection
+[ERROR] Timeout occurred

@@ -1,0 +1,5 @@
+App started
+Disk usage high
+Connection to DB failed
+Retrying connection
+Timeout occurred

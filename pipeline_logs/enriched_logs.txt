@@ -1,0 +1,10 @@
+App started
+ | TYPE: INFO
+Disk usage high
+ | TYPE: INFO
+Connection to DB failed
+ | TYPE: INFO
+Retrying connection
+ | TYPE: INFO
+Timeout occurred
+ | TYPE: INFO
